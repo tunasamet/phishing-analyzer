@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.db
+backend.log
+backend/ekran_goruntuleri/
+ekran_goruntuleri/
+.spyproject/
